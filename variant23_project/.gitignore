@@ -1,0 +1,7 @@
+build/
+*.class
+.idea/
+.vscode/
+.DS_Store
+
+vfs/*.zip

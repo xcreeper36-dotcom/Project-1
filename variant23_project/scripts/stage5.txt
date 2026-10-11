@@ -1,0 +1,6 @@
+mkdir newdir
+ls
+rm newdir
+rm docs
+rm readme.txt
+ls

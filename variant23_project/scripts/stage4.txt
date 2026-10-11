@@ -1,0 +1,5 @@
+ls
+cd docs
+tail -n 2 notes.txt
+rev "hello world"
+cd ..
